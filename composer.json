@@ -1,0 +1,21 @@
+{
+    "name": "vendor/destack-associados",
+    "description": "Description of project destackAssociados.",
+    "authors": [
+        {
+            "name": "Marcel Roxha",
+            "email": "marcel.augusto.roxha@gmail.com"
+        }
+    ],
+    "autoload":{
+            "psr-4":{
+            "Core\\": "core"
+            }
+        
+    },
+    
+    
+    "require": {
+        
+    }
+}
